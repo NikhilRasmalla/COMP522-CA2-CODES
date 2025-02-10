@@ -1,3 +1,2 @@
-# COMP522-CA2-CODES
-
-THESE ARE JAVA CODES I WROTE FOR MY ASSIGNMENT AND PUT THEM HERE SO THAT CAN BE REFERENCED USING THE ASSIGNMENT TEXT
+Cybersecurity Codes: Practice and Understanding
+This repository contains a collection of cybersecurity-related codes and scripts designed for both practical application and conceptual understanding of key cybersecurity principles. The goal is to provide hands-on experience with real-world scenarios in cybersecurity, covering topics like network security, encryption, threat detection, vulnerability analysis, and more.
